@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1745031944302,
+  "timestamp": 1745211558015,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -176,7 +176,7 @@
         "/assets/sounds/tm2/tm2_switch001.wav",
         "/assets/styles.css",
         "/index.html",
-        "/main.f00ca1b4dbd9b4b1.js",
+        "/main.b46b01e2ada8ef16.js",
         "/polyfills.5e950219b0924f0a.js",
         "/runtime.3a6329abd65c9244.js",
         "/styles.049e4b3a82e2f97d.css"
@@ -736,7 +736,7 @@
     "/assets/sounds/tm2/tm2_swing003.wav": "c90ac458f22fcfab9b3d6c2ec9affd08f05e1d3f",
     "/assets/sounds/tm2/tm2_switch001.wav": "9d24b56a2ee54a41910341caf0b1bce4fdc6e99a",
     "/assets/styles.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-    "/index.html": "dcf12f2f8e8f93546ae383c59ace5f436b7ddf2f",
+    "/index.html": "a5a0872c7bb9a24694a1567200cc61cd46cc5de0",
     "/lib/backend/skyway/skyway-connection.ac371adbbad8729e.js": "8ededf9e4c54c26af57c535fc63df254adb9acc4",
     "/lib/backend/skyway2023/skyway-connection.0c2bd6c0c8e826bb.js": "bd32c71a69b796880e6b7d1b840fdf57a51d8a97",
     "/lib/bcdice/bcdice-loader.a5305ec12716d129.js": "961cc698f17d0204995e0217c7e88a201b78a3ff",
@@ -1070,7 +1070,7 @@
     "/lib/bcdice/i18n/TensaiGunshiNiNaro-ja_jp-json.c19abe4ef3376415.js": "3a398532c91668c1d4b82fdfbf8ca564efe7a3b4",
     "/lib/bcdice/i18n/UnsungDuet-ja_jp-json.387d44d693b0d764.js": "f6f0594b4a958a431aeea9b9a04dc338f3573e14",
     "/lib/bcdice/i18n/UnsungDuet-ko_kr-json.aedbc6f6280b0608.js": "289f03770c36a4d847e0d00395ac1e6f18909db4",
-    "/main.f00ca1b4dbd9b4b1.js": "462c1fa187b84a502a0e4b841ecad634456b6c1f",
+    "/main.b46b01e2ada8ef16.js": "a8f381857ec14be2b1cbf519412e52651f82e789",
     "/polyfills.5e950219b0924f0a.js": "0d3783fa8676618c1a1412e85f79e7432ff6d8ec",
     "/runtime.3a6329abd65c9244.js": "45ad997489c47fd319e12dc26bc2200ed58e2d6e",
     "/styles.049e4b3a82e2f97d.css": "400abcbd9175b4c4735ec4d4852cf5d3396f6908"
